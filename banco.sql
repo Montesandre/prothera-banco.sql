@@ -1,4 +1,4 @@
--- 🧾 Lista todas as pessoas em ordem alfabética pelo nome
+-- Listagen de todas as pessoas em ordem alfabética pelo nome
 SELECT * 
 FROM pessoas
 ORDER BY nome ASC;
