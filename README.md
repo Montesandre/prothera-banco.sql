@@ -16,6 +16,6 @@ As consultas realizadas são:
 1.  **Listar pessoas em ordem alfabética pelo nome**
 2.  **Listar pessoas com idade entre 20 e 60 anos**
 3.  **Listar pessoas que não possuem CPF**
-4.  **Listar pessoas com sobrenome "Soares"**
+4.  **Listar pessoas com sobrenome Soares**
 5.  **Listar os tipos de documentos cadastrados (sem repetir)**
 
